@@ -1,0 +1,35 @@
+.city{
+
+font-family: Arial, sans-serif;
+font-size: 14px;
+color:rgb(255, 208, 0)
+}
+
+#london {
+    background-color: rgb(187, 125, 9);
+    border: 1px solid darkblue;
+    padding: 10px;
+    margin: 5px;
+}
+
+#paris {
+    background-color: rgb(47, 17, 216);  
+    border: 1px solid darkred;
+    padding: 10px;
+    margin: 5px;
+}
+
+#tokyo {
+    background-color: rgb(240, 163, 163);
+    border : 1px solid red;
+    padding: 10px;
+    margin: 5px 
+}
+
+body{
+    background-color: aqua;
+}
+
+#caption {
+    background-color: rgb(226, 43, 119);
+}
