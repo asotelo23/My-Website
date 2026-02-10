@@ -1,5 +1,6 @@
 table, th, td{
-    border: 1px solid black
+    border: 1px solid black;
+    
 }
 body {
   margin: 0;
@@ -32,4 +33,11 @@ h2{
     margin-top: 40px
     text-shadow: 2px 2px 4px black;
 }
-
+p{
+  text-align: center;
+  color: lightgreen;
+  margin-top:40px ;
+}
+td{
+  color: lightgreen;
+}

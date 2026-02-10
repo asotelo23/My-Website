@@ -4,21 +4,52 @@
   font-size: 40px;
    box-sizing: border-box;
 }
-.box-one{
+
+.card1{
   background-color: red;
   padding: 10px;
-  height: 400px;
+  height: 500px;
   width: 400px;
-  border: 20px solid violet;
+  border: 20px solid darkred;
+  margin:100px;
+  
+ 
+}
+body{
+  color:gold
+}
+h1{
+  color: black
+}
+h3{
+  font-size: 100px;
+}
+
+.card2{
+     background-color: aqua;
+  padding: 10px;
+  height: 500px;
+  width: 400px;
+  border: 20px solid orange;
   margin:100px;
  
 }
 
-.box-two{
-    background-color: aqua;
-    padding: 100px;
-  height: 400px;
+.card3{
+   background-color: yellowgreen;
+  padding: 10px;
+  height: 1000px;
   width: 400px;
-  border: 30px solid greenyellow;
-  margin:70px;
+  border: 20px solid yellow;
+  margin:100px;
+ 
+}
+
+.card4{
+  background-color: purple;
+  padding: 10px;
+  height: 500px;
+  width: 400px;
+  border: 20px solid black;
+  margin:100px;
 }
